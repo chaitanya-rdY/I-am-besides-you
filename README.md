@@ -34,9 +34,6 @@ This project fine-tunes **LLaMA-2 (7B)** using **QLoRA** and **PEFT** to classif
   - Batch size = 4  
   - Epochs = 3  
 
-### Results  
- 
-
 ---
 
 ## ✅ Evaluation  
