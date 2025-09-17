@@ -2,7 +2,7 @@ import streamlit as st
 from transformers import AutoModelForCausalLM, AutoTokenizer
 import torch
 
-st.title("AI Agent Interface")
+st.title("AI Agent")
 
 MODEL_ID = "meta-llama/Llama-2-7b-hf"
 device = "cuda" if torch.cuda.is_available() else "cpu"
