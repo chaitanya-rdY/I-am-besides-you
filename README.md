@@ -1,3 +1,12 @@
+## 👨‍🎓 Author  
+
+- **Name:** Palem Sree Krishna Chaitanya Reddy  
+- **University:** IIT Jammu  
+- **Department:** Chemical Engineering  
+- **Student ID:** 2023uch0025  
+- **Email:** 2023uch0025@iitjammu.ac.in  
+
+
 # 🧠 AI Agent for Student Request Classification  
 
 This project fine-tunes **LLaMA-2 (7B)** using **QLoRA** and **PEFT** to classify student requests into one of **41 predefined categories** (e.g., *Bonafide for Passport, Course Withdrawal, Transcript Request*).  
