@@ -4,7 +4,7 @@ import torch
 
 st.title("AI Agent")
 
-MODEL_ID = "meta-llama/Llama-2-7b-hf"
+MODEL_ID = "llama2-qlora-requests"
 device = "cuda" if torch.cuda.is_available() else "cpu"
 
 @st.cache_resource
